@@ -1,0 +1,574 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/attachments</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/customer-cards</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/customer-cards/create-a-customer-card</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/customer-cards/protocol</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/companies</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/companies/get-companies</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/companies/update-customer-company</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/customers</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/customers/customer-groups</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/customers/delete</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/customers/get</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/customers/upsert</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/error-codes</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/error-handling</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/events</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/events/create-customer-event</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/events/create-thread-event</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/labels</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/labels/add</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/labels/remove</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/messaging</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/messaging/reply-email</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/messaging/reply-to-thread</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/messaging/send-email</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/pagination</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/schema</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tenants</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tenants/add-customers</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tenants/get</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tenants/remove-customers</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tenants/set-customer-tenants</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tenants/upsert</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/threads</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/threads/assignment</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/threads/autoresponders</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/threads/create</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/threads/status-changes</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/threads/thread-fields</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tiers</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tiers/add-members</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tiers/get</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tiers/remove-members</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tiers/update-company-tier</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/graphql/tiers/update-tenant-tier</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/mtls</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/request-signing</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components/badge</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components/container</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components/copy-button</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components/divider</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components/link-button</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components/plain-text</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components/row</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components/spacer</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/ui-components/text</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/customer-created</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/customer-deleted</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/customer-group-membership-changed</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/customer-updated</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-assignment-transitioned</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-chat-received</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-chat-sent</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-created</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-email-received</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-email-sent</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-field-created</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-field-deleted</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-field-updated</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-labels-changed</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-note-created</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-priority-changed</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-service-level-agreement-status-transitioned</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-slack-message-received</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-slack-message-sent</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/thread-status-transitioned</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/typescript</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/api-reference/webhooks/versions</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/assignment</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/auto-responses</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/broadcasts</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/chat</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/chat/authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/chat/customization</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/company-support</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/contact-forms</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/customer-cards</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/customer-groups</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/data-model</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/digests</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/discord/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/email</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/email/alternate-emails</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/email/email-avatars</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/email/receiving</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/email/sending</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/events</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/favorite-pages</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/headless-support-portal</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/integrations/discourse</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/integrations/helpscout</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/integrations/hubspot</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/integrations/jira</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/integrations/linear</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/integrations/salesforce</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/integrations/zendesk</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/knowledge-base/kb-forwarding-emails</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/knowledge-base/kb-personal-email</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/knowledge-base/kb-setup-time</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/knowledge-base/kb-soc2</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/knowledge-base/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/labels</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/microsoft-teams</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/microsoft-teams/installation</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/notifications</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/plain-ai</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/plain-ai/knowledge-sources</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/plain-ai/suggested-responses</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/plain-ai/workflow</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/priorities</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/quickstart</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/reporting</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/reporting/metrics</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/reporting/team-reporting</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/reporting/using-reporting</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/roles-in-plain</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/saved-views</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/security</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/shortcuts</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/slack</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/slack/data-retention</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/slack/ingestion-modes</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/snippets</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/statuses</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/syntax-highlighting</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/tenant-support</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/thread-discussions</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/thread-fields</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/tiers</loc>
+  </url>
+
+  <url>
+    <loc>https://www.plain.com/docs/workflow-rules</loc>
+  </url>
+</urlset>
